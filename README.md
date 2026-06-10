@@ -1,5 +1,5 @@
 # Intro to AI Group Project
- Created by Angelo, Paris Isley, Rudra Jhagroosingh, Sebastian Didone, Lucas Rozenman
+ Created by Angelo Segura, Paris Isley, Rudra Jhagroosingh, Sebastian Didone, Lucas Rozenman
 
  The purpose of this AI is for it to take reviews and scores from IMDb databases and compiles them all together to make a general review on the film, show, webseries, etc. 
 
